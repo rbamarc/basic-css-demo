@@ -5,6 +5,13 @@ a {
     padding: 1.5em 
 }
 
+a:hover {
+    color: white; 
+    text-decoration: none; 
+    font-size:1.5em; 
+    padding: 1.5em 
+}
+
 nav {
     text-align: center; 
     background-color: rgb(55, 55, 55);
